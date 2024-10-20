@@ -1,0 +1,29 @@
+<html>
+    <head> <B>A CHEMICAL SHOP </B> </head>
+    <Body>
+        <title>  DAY: </title>
+        <P> BY SUMAIYA TASMO  | 21.10.2024 (monday)</P>
+        <img width="400" src="./chemical.jpg" alt="test imag ">
+        <p>Lorem, ipsum dolor sit amet consectetur <br> adipisicing elit. Accusamus soluta nobis, asperiores quod praesentium, atque voluptate <br> vitae repellat ipsam iusto assumenda, culpa itaque temporibus! <br> Earum mollitia officia qui a ea.</p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GaKWbc3v8FI?si=feafAlCf_-0e20r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <a href="https://www.creativeitinstitute.com/"> <br> 
+            <p> <b>SEE THE WEBSITE </b></p>
+            <img width="50" src="c:\Users\SUMAYYA THASMU\Desktop\New folder\new folder 1\insta.png" alt="">
+        </a> <br> 
+        
+        
+
+        <ol> <li> <B> A</B>= h <sub>2</sub> so <sub>4</sub></li>
+            <li> <B>B</B>= h <sub>2</sub>o</li>
+            <li><B>C</B>=hcl</li>
+            <li><B>D</B>= hno <sub>3</sub></li>
+
+        </ol>
+        
+<P> <B> THANK YOU EVERYONE .</B> </P>
+
+
+
+    </Body>
+</html>
